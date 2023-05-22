@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/shop-store-yfgv6.figma-tokens-lhyzfnk3",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 0X4R9DYiwPZf7T60r1iv --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
